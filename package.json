@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "truffle": "^5.4.25"
+  },
+  "name": "nd1309-p2-decentralized-star-notary-service-starter-code",
+  "description": "**PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "mocha": "^8.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udacity/nd1309-p2-Decentralized-Star-Notary-Service-Starter-Code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udacity/nd1309-p2-Decentralized-Star-Notary-Service-Starter-Code/issues"
+  },
+  "homepage": "https://github.com/udacity/nd1309-p2-Decentralized-Star-Notary-Service-Starter-Code#readme"
+}
